@@ -9,14 +9,14 @@ app = FastAPI()
 class TextInput(BaseModel):
     text: str
 
-# Define paths
+# Defining Paths
 MODELS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'models')
 MODEL_PATH = os.path.join(MODELS_DIR, 'model.pth')
 
-# Initialize model
+# Model initialization
 model_trainer = ModelTrainer(num_classes=4)
 
-# Load the trained model
+# Loading trained model
 try:
     model_trainer.load_model(MODEL_PATH)
 except Exception as e:
