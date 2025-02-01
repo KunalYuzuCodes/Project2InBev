@@ -65,31 +65,31 @@ uvicorn app:app --reload
 **SCREENSHOTS**
 
 Dataset Count and Accuracy
-![image](https://github.com/user-attachments/assets/430d3a31-7789-4796-9f3b-c2a9d81af7b9)
+![image](https://github.com/user-attachments/assets/a522e8f9-3b3a-4345-8ac3-ed821f23e6a8)
 
 Output for Electronics
-![image](https://github.com/user-attachments/assets/258c5d45-8ff6-424a-8b5c-ac1f8ebf8e2a)
+![image](https://github.com/user-attachments/assets/7218621f-7ab5-44bf-9dfa-c774ca67406e)
 
 Output for Household
-![image](https://github.com/user-attachments/assets/76c77597-cccf-4470-82ce-c3a7c1ed4cfe)
+![image](https://github.com/user-attachments/assets/af332c01-d0af-40af-9416-eece554d5202)
 
 Output for Books
-![image](https://github.com/user-attachments/assets/4a980c18-0354-41f6-b170-da7dc6ae2e28)
+![image](https://github.com/user-attachments/assets/fece3051-909b-4dd6-921d-044694a4cb6c)
 
 Output for Clothing and Accessories
-![image](https://github.com/user-attachments/assets/817b69f8-c56d-4713-adaf-e161a7ba243d)
+![image](https://github.com/user-attachments/assets/32609bfe-83a0-40a6-8c06-de1485b4ff74)
 
 Running the API 
 
-![image](https://github.com/user-attachments/assets/e688ae55-3b86-4d05-a099-a43d7f4fc1cd)
+![image](https://github.com/user-attachments/assets/c6dec41a-e023-4804-9513-26b3aa80fbcf)
 
 **BONUS Task**
 
 Swagger Screenshots - 
 
-![image](https://github.com/user-attachments/assets/d0f45740-bab4-4c77-b236-5423266ad3c2)
+![image](https://github.com/user-attachments/assets/f9cc1859-2f90-463c-b0fc-242cf8a953d0)
 
-![image](https://github.com/user-attachments/assets/1c477289-bbc0-41ec-b5ad-922b88e2d0cd)
+![image](https://github.com/user-attachments/assets/a2b62777-c397-4939-85dc-0e7345764b24)
 
 
 
